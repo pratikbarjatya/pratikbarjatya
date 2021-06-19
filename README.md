@@ -1,13 +1,4 @@
 ### Hi there 👋 
-```
-.########..########.....###....########.####.##....##....########.....###....########........##....###....########.####.##....##....###...
-.##.....##.##.....##...##.##......##.....##..##...##.....##.....##...##.##...##.....##.......##...##.##......##.....##...##..##....##.##..
-.##.....##.##.....##..##...##.....##.....##..##..##......##.....##..##...##..##.....##.......##..##...##.....##.....##....####....##...##.
-.########..########..##.....##....##.....##..#####.......########..##.....##.########........##.##.....##....##.....##.....##....##.....##
-.##........##...##...#########....##.....##..##..##......##.....##.#########.##...##...##....##.#########....##.....##.....##....#########
-.##........##....##..##.....##....##.....##..##...##.....##.....##.##.....##.##....##..##....##.##.....##....##.....##.....##....##.....##
-.##........##.....##.##.....##....##....####.##....##....########..##.....##.##.....##..######..##.....##....##....####....##....##.....##
-```
 ![Pratik Barjatiya](https://raw.githubusercontent.com/pratikbarjatya/pratikbarjatya/master/assets/images/Banner.svg)
 
 [1.1]: https://github.com/pratikbarjatya/pratikbarjatya/blob/master/assets/icons/LinkedIn.svg (linkedin)
@@ -30,12 +21,12 @@ I am **Pratik Barjatiya**, an interpretative software professional with just eno
 By Nature, I am keen to explore untapped areas, research and build applications. Willing to learn and being
  available as a mentor for the one who wants to explore this field.
  
-Strong believer in giving back to community and running ["Learn-On-Go"](https://www.linkedin.com/groups/13913721/) 
+Strong believer in giving back to community and running [Learn-On-Go](https://www.linkedin.com/groups/13913721/) 
+
 Knowledge sharing space [Data Engineering](https://dataengineering.quora.com/)
 
 My portfolio is a representation of all that I have learned and accomplished as a Techie student. 
 The articles and projects you will see in this portfolio show how my knowledge and experience have evolved over time.
-
 
 Visit my website- https://pratikbarjatya.github.io
 
