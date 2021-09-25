@@ -1,4 +1,5 @@
-### Hi there 👋 
+<h1 align="center">Hi 👋, I'm Pratik Barjatiya</h1>
+
 ![Pratik Barjatiya](https://raw.githubusercontent.com/pratikbarjatya/pratikbarjatya/master/assets/images/Banner.svg)
 
 [1.1]: https://github.com/pratikbarjatya/pratikbarjatya/blob/master/assets/icons/LinkedIn.svg (linkedin)
@@ -65,6 +66,7 @@ Connect with me:
 ![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2CD4A7)
+
 
 ## Articles I have written
 
