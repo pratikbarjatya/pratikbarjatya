@@ -76,39 +76,39 @@ Connect with me:
 **Data Engineering**
 - [Why Digital Businesses Need to Be Data-Driven](https://pratikbarjatya.medium.com/why-digital-data-driven-42a9499393df)
 - [Key Trends and Challenges in Data Engineering in 2023](https://pratikbarjatya.medium.com/key-trends-and-challenges-in-data-engineering-367c15df1b7)
-- [Top Courses to Become a Data Engineer in 2023](https://pratikbarjatya.medium.com/top-courses-to-become-a-data-engineer-in-2023-aa3312281641)
+- **[Top Courses to Become a Data Engineer in 2023](https://pratikbarjatya.medium.com/top-courses-to-become-a-data-engineer-in-2023-aa3312281641)**
 - [Introduction to Data Warehousing in 2023](https://pratikbarjatya.medium.com/introduction-to-data-warehousing-in-2023-3f5f12d21e92)
 - [Top 10 Must-Know Data Engineering Tools for 2023](https://pratikbarjatya.medium.com/top-10-must-know-data-engineering-tools-for-2023-406c92615851)
 - [10 Fantastic Books for Data Engineering: A Must-Read List](https://pratikbarjatya.medium.com/10-fantastic-books-for-data-engineering-a-must-read-list-210146cddf24)
-- [Interview Preparation: Top SQL Queries and Solutions for Data Engineers and Data Analyst](https://pratikbarjatya.medium.com/top-interview-sql-queries-and-solutions-for-data-engineers-and-data-analyst-c5d542088b68)
+- **[Interview Preparation: Top SQL Queries and Solutions for Data Engineers and Data Analyst](https://pratikbarjatya.medium.com/top-interview-sql-queries-and-solutions-for-data-engineers-and-data-analyst-c5d542088b68)**
 - [Using NoSQL Databases for Big Data Storage and Retrieval](https://pratikbarjatya.medium.com/using-nosql-databases-for-big-data-storage-and-retrieval-446350d1603b)
-- [Top 5 Open Source Data Catalogs for Effective Data Management](https://pratikbarjatya.medium.com/top-5-open-source-data-catalogs-for-effective-data-management-5f86722e588e)
+- **[Top 5 Open Source Data Catalogs for Effective Data Management](https://pratikbarjatya.medium.com/top-5-open-source-data-catalogs-for-effective-data-management-5f86722e588e)**
 - [Unlock the Power of Your Data Pipeline with Streaming Data Ingestion, Data Warehousing and Feature Extraction!](https://pratikbarjatya.medium.com/unlock-the-power-of-your-data-pipeline-with-streaming-data-ingestion-data-warehousing-and-feature-58d11870a4ad)
-- [Building a Data Ingestion System Using Apache NiFi](https://pratikbarjatya.medium.com/building-data-ingestion-system-using-apache-nifi-76e90765ac43)
+- **[Building a Data Ingestion System Using Apache NiFi](https://pratikbarjatya.medium.com/building-data-ingestion-system-using-apache-nifi-76e90765ac43)**
 - [Implementing a Data Lake and Data Ingestion System with CDC Pipeline Using Kafka and Spark](https://medium.com/data-and-beyond/implementing-data-lake-and-data-ingestion-system-with-cdc-pipeline-using-kafka-and-spark-1da6de73de10)
 - [Overview of Parquet and Why It Gels with PySpark](https://medium.com/data-and-beyond/overview-parquet-and-why-it-gels-with-pyspark-d6e2209bf225)
 - [Exploring the Apache ORC File Format: Advantages, Use Cases, and Best Practices for Data Storage and Processing](https://medium.com/data-and-beyond/exploring-the-orc-file-format-advantages-use-cases-and-best-practices-for-data-storage-and-79c607ee9289)
 - [Data Pipelines: The Backbone of Modern Data Architecture](https://pratikbarjatya.medium.com/data-pipelines-the-backbone-of-modern-data-architecture-811cdf5dbec)
-- [Mastering Data Processing with Apache Spark’s Catalyst Optimization](https://pratikbarjatya.medium.com/mastering-data-processing-with-apache-sparks-catalyst-optimization-ebe38a77cd84)
+- **[Mastering Data Processing with Apache Spark’s Catalyst Optimization](https://pratikbarjatya.medium.com/mastering-data-processing-with-apache-sparks-catalyst-optimization-ebe38a77cd84)**
 - [Maximizing Big Data Potential: Batch and Stream Processing, Data Pipelines, and Distributed Cloud Computing](https://pratikbarjatya.medium.com/maximizing-big-data-potential-batch-and-stream-processing-data-pipelines-and-distributed-cloud-8d3a848aa04d)
 - [Kappa Architecture: Stream Processing in Big Data Analytics](https://medium.com/data-and-beyond/kappa-architecture-stream-processing-in-big-data-analytics-e539f4bf63cd)
-- [10 Best Practices for Building Scalable Data Pipelines](https://pratikbarjatya.medium.com/10-best-practices-for-building-scalable-data-pipelines-b9a4413b908)
+- **[10 Best Practices for Building Scalable Data Pipelines](https://pratikbarjatya.medium.com/10-best-practices-for-building-scalable-data-pipelines-b9a4413b908)**
 - [Unveiling the Mysteries of Apache Hadoop and Its Thriving Ecosystem](https://medium.com/data-and-beyond/unveiling-the-mysteries-of-apache-hadoop-and-its-thriving-ecosystem-5c8724716dca)
 - [How to Visualize and Explore Big Data Using Python](https://pratikbarjatya.medium.com/how-to-visualize-and-explore-big-data-using-python-2c4cd0d8dae4)
-- [The Ethics of Big Data and AI: Navigating the Age of Information](https://pratikbarjatya.medium.com/the-ethics-of-big-data-and-ai-navigating-the-age-of-information-ed937c65a73d)
-- [The Impact of COVID-19 on the Surge in Online Shopping Across the Globe](https://medium.com/data-and-beyond/the-impact-of-covid-19-on-the-surge-in-online-shopping-across-the-globe-602df30dec1d)
-- [How Indian Railways Leveraged Big Data Analytics to Boost Profitability](https://medium.com/data-and-beyond/how-indian-railways-leveraged-big-data-analytics-to-boost-profitability-f61867cf64e6)
+- **[The Ethics of Big Data and AI: Navigating the Age of Information](https://pratikbarjatya.medium.com/the-ethics-of-big-data-and-ai-navigating-the-age-of-information-ed937c65a73d)**
+- **[The Impact of COVID-19 on the Surge in Online Shopping Across the Globe](https://medium.com/data-and-beyond/the-impact-of-covid-19-on-the-surge-in-online-shopping-across-the-globe-602df30dec1d)**
+- **[How Indian Railways Leveraged Big Data Analytics to Boost Profitability](https://medium.com/data-and-beyond/how-indian-railways-leveraged-big-data-analytics-to-boost-profitability-f61867cf64e6)**
 - [What’s Next for Data Engineering in 2023? 7 Predictions](https://pratikbarjatya.medium.com/whats-next-for-data-engineering-in-2023-7-predictions-b424423218c9)
 
 - [Predictive Analytics: Forecasting Future Trends with Big Data](https://pratikbarjatya.medium.com/predictive-analytics-forecasting-future-trends-with-big-data-5eef92ebf53)
-- [Customer Segmentation: Unlocking Insights from Big Data](https://pratikbarjatya.medium.com/customer-segmentation-unlocking-insights-from-big-data-8976b9836e88)
+- **[Customer Segmentation: Unlocking Insights from Big Data](https://pratikbarjatya.medium.com/customer-segmentation-unlocking-insights-from-big-data-8976b9836e88)**
 - [Mastering Data-driven Decision Making: A Guide to Leveraging Predictive Analytics](https://medium.com/data-and-beyond/mastering-data-driven-decision-making-a-guide-to-leveraging-predictive-analytics-83bb01394241)
 - [Unleashing the Power of Data: How Big Data and Data Science are Revolutionizing Decision Making in Business](https://pratikbarjatya.medium.com/unleashing-the-power-of-data-how-big-data-and-data-science-are-revolutionizing-decision-making-in-8aa7266a8a7c)
   
-- [Unraveling the Power of ELK Search Engines: Real-Time Analytics and Beyond](https://pratikbarjatya.medium.com/unraveling-the-power-of-elk-search-engines-real-time-analytics-and-beyond-8ca6960fcd32)
+- **[Unraveling the Power of ELK Search Engines: Real-Time Analytics and Beyond](https://pratikbarjatya.medium.com/unraveling-the-power-of-elk-search-engines-real-time-analytics-and-beyond-8ca6960fcd32)**
 - [Key Algorithms for ELK-Based Search Engines for Digital E-Commerce Platforms](https://pratikbarjatya.medium.com/key-algorithms-for-elk-based-search-engines-for-digital-e-commerce-platforms-542a6a7f1f07)
 - [Optimizing Spark Performance with AQE: A Deep Dive into Apache Spark’s Adaptive Query Execution](https://medium.com/data-and-beyond/optimizing-spark-performance-with-aqe-a-deep-dive-into-apache-sparks-adaptive-query-execution-ada33916cbdd)
-- [How to Optimize E-commerce using Data-Driven Segmentation and Personalized Recommendations](https://pratikbarjatya.medium.com/how-to-optimize-e-commerce-using-data-driven-segmentation-and-personalized-recommendations-9e4cc1a7f5b0)
+- **[How to Optimize E-commerce using Data-Driven Segmentation and Personalized Recommendations](https://pratikbarjatya.medium.com/how-to-optimize-e-commerce-using-data-driven-segmentation-and-personalized-recommendations-9e4cc1a7f5b0)**
 - [The power of dataframe in Pandas](https://pratikbarjatya.medium.com/the-power-of-data-frame-in-pandas-ade694253e20)
 
 **Personal Finance & Heatlh**
