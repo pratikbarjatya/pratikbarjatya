@@ -31,7 +31,9 @@ Knowledge sharing space [Data Engineering](https://dataengineering.quora.com/)
 My portfolio is a representation of all that I have learned and accomplished as a Techie student. 
 The articles and projects you will see in this portfolio show how my knowledge and experience have evolved over time.
 
-Visit my website- https://pratikbarjatya.github.io
+Checkout my blog - https://pratikbarjatya.medium.com
+Visit my website - https://pratikbarjatya.github.io
+
 
 Connect with me:
 
