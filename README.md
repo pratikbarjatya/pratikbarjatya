@@ -99,9 +99,10 @@ Connect with me:
 I am currently looking for new opportunities. My inbox is always open, whether you have a question or just want to say hi, you can always connect with me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-barjatiya)](https://www.linkedin.com/in/pratik-barjatiya)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratikbarjatya@gmail.com)](mailto:pratikbarjatya@gmail.com)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pratik007a)](https://twitter.com/pratik007a)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@pratikbarjatya)](https://medium.com/@pratikbarjatya)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kritikseth)](https://www.kaggle.com/pra0705) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratikbarjatya@gmail.com)](mailto:pratikbarjatya@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pra0705)](https://www.kaggle.com/pra0705) 
 
 <!-- section - social media icons -->
 
