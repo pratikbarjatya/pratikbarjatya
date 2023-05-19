@@ -13,14 +13,16 @@
 [4]: https://www.kaggle.com/pra0705
 
 **Passionate professional and love to deep dive in data.**
+  
+👋 Hi there! **I'm Pratik Barjatya**, a passionate **data engineer** and **machine learning** enthusiast. I enjoy working with **big data technologies** and b**uilding scalable data pipelines** to extract insights from massive datasets.
 
-I am **Pratik Barjatiya**, an interpretative software professional with just enough expertise in Data Science,
- Data Engineering, Data Analytics, Machine Learning and Quality Engineering to make trouble, having 8+ years of 
- Industry experience and currently playing a role of a **Machine Learning Engineer** based in Bangalore, India. 
- I am currently building AI-powered Search Engine.  
+🚀 As a tech enthusiast, I love exploring emerging technologies and leveraging them to solve real-world challenges. From data ingestion and processing to designing efficient data architectures, I thrive on turning complex data problems into actionable solutions.
 
-By Nature, I am keen to explore untapped areas, research and build applications. Willing to learn and being
- available as a mentor for the one who wants to explore this field.
+💻 My GitHub repositories showcase my work in data engineering, where I share projects, code snippets, and best practices related to data processing, ETL, and data integration. Feel free to explore and collaborate on these projects—I'm always open to new ideas and collaborations!
+
+📚 When I'm not coding or tinkering with data, you'll find me diving into books and articles on the latest trends in data engineering and machine learning. I believe in the power of continuous learning and enjoy staying up-to-date with the ever-evolving tech landscape.
+
+By Nature, I am keen to explore untapped areas, research and build applications. Willing to learn and being available as a mentor for the one who wants to explore this field.
  
 Strong believer in giving back to community and running [Learn-On-Go](https://www.linkedin.com/groups/13913721/) 
 
@@ -46,7 +48,7 @@ Connect with me:
 
 * Data Engineering - Python | PySpark | NiFi | Airflow
 * Machine Learning
-* ELK
+* ELK Stack
 * NLP Deep Learning
 * Statistics
 * AWS EMR, EC2, S3, RedShift, Athena, Glue, Sagemaker 
@@ -69,13 +71,26 @@ Connect with me:
 
 
 ## Articles I have written
-
-- [2021 Trend: Be leader in digital market with Data-Driven Decisions](https://pratikbarjatya.medium.com/why-digital-data-driven-42a9499393df)
-
+**Data Engineering**
+- [Why Digital Businesses Need to Be Data-Driven](https://pratikbarjatya.medium.com/why-digital-data-driven-42a9499393df)
+- [Key Trends and Challenges in Data Engineering in 2023](https://pratikbarjatya.medium.com/key-trends-and-challenges-in-data-engineering-367c15df1b7)
+- [Unlock the Power of Your Data Pipeline with Streaming Data Ingestion, Data Warehousing and Feature Extraction!](https://pratikbarjatya.medium.com/unlock-the-power-of-your-data-pipeline-with-streaming-data-ingestion-data-warehousing-and-feature-58d11870a4ad)
+- [Building a Data Ingestion System Using Apache NiFi](https://pratikbarjatya.medium.com/building-data-ingestion-system-using-apache-nifi-76e90765ac43)
+- [Implementing a Data Lake and Data Ingestion System with CDC Pipeline Using Kafka and Spark](https://medium.com/data-and-beyond/implementing-data-lake-and-data-ingestion-system-with-cdc-pipeline-using-kafka-and-spark-1da6de73de10)
+- [Overview of Parquet and Why It Gels with PySpark](https://medium.com/data-and-beyond/overview-parquet-and-why-it-gels-with-pyspark-d6e2209bf225)
+- [Exploring the Apache ORC File Format: Advantages, Use Cases, and Best Practices for Data Storage and Processing](https://medium.com/data-and-beyond/exploring-the-orc-file-format-advantages-use-cases-and-best-practices-for-data-storage-and-79c607ee9289)
+- [Unraveling the Power of ELK Search Engines: Real-Time Analytics and Beyond](https://pratikbarjatya.medium.com/unraveling-the-power-of-elk-search-engines-real-time-analytics-and-beyond-8ca6960fcd32)
+- [Key Algorithms for ELK-Based Search Engines for Digital E-Commerce Platforms](https://pratikbarjatya.medium.com/key-algorithms-for-elk-based-search-engines-for-digital-e-commerce-platforms-542a6a7f1f07)
 - [The power of dataframe in Pandas](https://pratikbarjatya.medium.com/the-power-of-data-frame-in-pandas-ade694253e20)
+
+**Personal Finance**
+- [The Psychology of Money: How to Master Your Finances and Achieve Financial Success](https://pratikbarjatya.medium.com/the-psychology-of-money-lessons-learned-on-the-path-to-financial-success-56027adaeeca)
+- [Millennial Habits for 2023: The Roadmap to Success and Happiness](https://pratikbarjatya.medium.com/millennial-habits-for-2023-the-roadmap-to-success-and-happiness-818e0c297c9)
 
 - [How I transformed from Software Quality Engineering to Data Science World](https://pratikbarjatya.medium.com/how-i-transformed-from-software-quality-engineering-to-data-science-world-bb13ca1c3122)
 
+**Software Testing and Quality Engineering**
+- [Mobile App Testing Essentials: A Guide for Developers and QA Professionals](https://pratikbarjatya.medium.com/mobile-apps-testing-essentials-5497f5939cd6)
 - [Importance of XPath in Web Automation](https://pratikbarjatya.medium.com/importance-of-xpath-in-web-automation-81139b9001c5)
 
 
