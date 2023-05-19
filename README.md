@@ -39,7 +39,7 @@ Connect with me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratikbarjatya@gmail.com)](mailto:pratikbarjatya@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@pratikbarjatya)](https://medium.com/@pratikbarjatya)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pra0705)](https://www.kaggle.com/pra0705) 
-
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pratik007a)](https://twitter.com/pratik007a)
 <!-- ---- -->
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pratikbarjatya/pratikbarjatya/master/assets/images/codegif.gif" width="320" height="284" />
