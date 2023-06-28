@@ -144,7 +144,8 @@ I am currently looking for new opportunities. My inbox is always open, whether y
 ---
 | ![Pratik Barjatiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikbarjatya&show_icons=true&theme=radical) | [![Pratik Barjatiya's Stri](https://streak-stats.demolab.com?user=pratikbarjatya&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbarjatya&layout=compact&&show_icons=true&theme=radical)](https://github.com/pratikbarjatya/github-readme-stats) | [![Pratik Barjatiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikbarjatya&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbarjatya&layout=compact&&show_icons=true&theme=radical)](https://github.com/pratikbarjatya/github-readme-stats) | | 
+[![Pratik Barjatiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikbarjatya&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
    ## ⚡ Technologies I use 
@@ -155,6 +156,10 @@ I am currently looking for new opportunities. My inbox is always open, whether y
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/python.jpeg" width="65px"/>
             <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/spark.jpeg" width="65px"/>
+            <br /> Spark
         </td>
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/jupyter.png" width="65px"/>
