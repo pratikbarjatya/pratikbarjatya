@@ -159,7 +159,7 @@ I am currently looking for new opportunities. My inbox is always open, whether y
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/spark.jpeg" width="65px"/>
+            <img src="./assets/icons/Apache_Spark_logo.svg.png" width="65px"/>
             <br /> Spark
         </td>
         <td align="center" width="140" height="112.43">
