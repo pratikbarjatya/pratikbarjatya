@@ -12,7 +12,6 @@
 [3]: https://medium.com/@pratikbarjatya
 [4]: https://www.kaggle.com/pra0705
 
-![](https://komarev.com/ghpvc/?username=pratikbarjatya&color=green) 
 **Passionate professional and love to deep dive in data.**
   
 👋 Hi there! **I'm Pratik Barjatya**, a passionate **data engineer** and **machine learning** enthusiast. I enjoy working with **big data technologies** and b**uilding scalable data pipelines** to extract insights from massive datasets.
@@ -138,6 +137,8 @@ I am currently looking for new opportunities. My inbox is always open, whether y
 
 ## GitHub Statistics
 
+![](https://komarev.com/ghpvc/?username=pratikbarjatya&color=green) 
+
 ![](https://github-profile-trophy.vercel.app/?username=pratikbarjatya&theme=flat&no-frame=true&row=1&column=6&margin-w=5&margin-h=5&count_private=true&bgColor=#f5f5f5&title=Followers,Stars,Repositories,Commit,MultiLanguage)
 
 <p align = "center">
@@ -149,6 +150,15 @@ I am currently looking for new opportunities. My inbox is always open, whether y
 <p align='center'>
   <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=pratikbarjatya.visitor-badge">
 <p/>
+
+---
+| ![Pratik Barjatiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikbarjatya&show_icons=true&theme=radical) | [![Pratik Barjatiya's Stri](https://streak-stats.demolab.com?user=pratikbarjatya&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbarjatya&layout=compact&&show_icons=true&theme=radical)](https://github.com/pratikbarjatya/github-readme-stats) |                                                              |
+
+
+
+[![Pratik Barjatiya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pratikbarjatya&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/pratikbarjatya/github-readme-activity-graph)
 
 <!--
 **pratikbarjatya/pratikbarjatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
