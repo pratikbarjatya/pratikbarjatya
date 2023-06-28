@@ -12,6 +12,7 @@
 [3]: https://medium.com/@pratikbarjatya
 [4]: https://www.kaggle.com/pra0705
 
+![](https://komarev.com/ghpvc/?username=pratikbarjatya&color=green) 
 **Passionate professional and love to deep dive in data.**
   
 👋 Hi there! **I'm Pratik Barjatya**, a passionate **data engineer** and **machine learning** enthusiast. I enjoy working with **big data technologies** and b**uilding scalable data pipelines** to extract insights from massive datasets.
