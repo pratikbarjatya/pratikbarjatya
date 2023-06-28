@@ -35,7 +35,7 @@ Checkout my blog - https://pratikbarjatya.medium.com
 Visit my website - https://pratikbarjatya.github.io
 
 
-Connect with me:
+## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-barjatiya)](https://www.linkedin.com/in/pratik-barjatiya)
 [![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pratik007a)](https://twitter.com/pratik007a)
@@ -136,6 +136,8 @@ I am currently looking for new opportunities. My inbox is always open, whether y
 <!-- section - social media icons -->
 
 ## GitHub Statistics
+
+![](https://github-profile-trophy.vercel.app/?username=pratikbarjatya&theme=flat&no-frame=true&row=1&column=6&margin-w=5&margin-h=5&count_private=true&bgColor=#f5f5f5&title=Followers,Stars,Repositories,Commit,MultiLanguage)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pratikbarjatya&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&theme=tokyonight&line_height=40">
