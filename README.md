@@ -13,8 +13,50 @@
 [4]: https://www.kaggle.com/pra0705
 
 **Passionate professional and love to deep dive in data.**
-  
-👋 Hi there! **I'm Pratik Barjatya**, a passionate **data engineer** and **machine learning** enthusiast. I enjoy working with **big data technologies** and b**uilding scalable data pipelines** to extract insights from massive datasets.
+
+
+👋 Welcome! **I'm Pratik Barjatiya**, an **AI Engineer** and **strategist** specializing in decentralized AI, Web3 and the next generation of machine learning. My experience ranges from building scalable solutions for startups to leading AI innovation at large enterprises, and I’m passionate about pushing boundaries in the digital asset and blockchain space. I enjoy working with **big data technologies** and **building scalable data pipelines** to extract insights from massive datasets.
+
+## Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-barjatiya)](https://www.linkedin.com/in/pratik-barjatiya)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pratik007a)](https://twitter.com/pratik007a)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@pratikbarjatya)](https://medium.com/@pratikbarjatya)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratikbarjatya@gmail.com)](mailto:pratikbarjatya@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pra0705)](https://www.kaggle.com/pra0705) 
+<!-- ---- -->
+
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pratikbarjatya/pratikbarjatya/master/assets/images/codegif.gif" width="320" height="284" />
+
+------
+
+## 🚀 About Me
+- **Focus**: Advancing Decentralized AI, Generative AI, and Blockchain to empower digital transformation.
+- **Vision**: To democratize access to AI and data tools while ensuring transparency, integrity, and security.
+- **Current Areas**: Validator integrity mechanisms on decentralized networks, Generative AI applications and ML model lifecycle management.
+
+-------
+
+## 🌐 Core Areas of Expertise
+- **Decentralized AI & Blockchain**: Designing architectures that ensure trust and transparency in decentralized ecosystems with a focus on validator trust and network reliability.
+- **Generative AI & ML**: Developing cutting-edge models in natural language processing, computer vision, and data analytics with a strong focus on ethics and scalability.
+- **Data-Driven Development**: Implementing advanced data pipelines and AI-driven insights for a wide range of applications across various sectors.
+
+-------
+
+## 📝 Thought Leadership
+As a proponent of decentralized technologies, I contribute to the community through articles and thought pieces:
+
+- **The Future of Validator Trust in Decentralized Networks**: Exploring integrity mechanisms, trust metrics, and governance in decentralized AI networks.
+- **Chain of Thought Reasoning in AI**: Diving into advanced reasoning for NLP and how these frameworks drive decision-making in AI.
+
+You can find my writing on [Medium](https://pratikbarjatya.medium.com/) or connect with me on [LinkedIn](https://www.linkedin.com/in/pratik-barjatiya) for more insights.
+
+--------
+
+## 🌍 Let’s Connect
+If you're as passionate about Decentralized AI, GenAI, or the future of Web3 as I am, let’s connect! I'm always excited to collaborate on initiatives that drive AI forward.
+
 
 🚀 As a tech enthusiast, I love exploring emerging technologies and leveraging them to solve real-world challenges. From data ingestion and processing to designing efficient data architectures, I thrive on turning complex data problems into actionable solutions.
 
@@ -28,26 +70,10 @@ Strong believer in giving back to community and running [Learn-On-Go](https://ww
 
 Knowledge sharing space [Data Engineering](https://dataengineering.quora.com/)
 
-My portfolio is a representation of all that I have learned and accomplished as a Techie student. 
-The articles and projects you will see in this portfolio show how my knowledge and experience have evolved over time.
-
-Checkout my blog - https://pratikbarjatya.medium.com
-Visit my website - https://pratikbarjatya.github.io
-
-
-## Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-barjatiya)](https://www.linkedin.com/in/pratik-barjatiya)
-[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pratik007a)](https://twitter.com/pratik007a)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@pratikbarjatya)](https://medium.com/@pratikbarjatya)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratikbarjatya@gmail.com)](mailto:pratikbarjatya@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pra0705)](https://www.kaggle.com/pra0705) 
-<!-- ---- -->
-
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pratikbarjatya/pratikbarjatya/master/assets/images/codegif.gif" width="320" height="284" />
 
 ## Skills I have
 
+Proficient in Python, TensorFlow, PyTorch and Solidity with extensive experience in decentralized AI, data-driven development and Web3 ecosystems.
 * Data Engineering - Python | PySpark | NiFi | Airflow
 * Machine Learning
 * ELK Stack
@@ -56,7 +82,6 @@ Visit my website - https://pratikbarjatya.github.io
 * AWS EMR, EC2, S3, RedShift, Athena, Glue, Sagemaker 
 * Data Visualisation
 * SQL, NoSQL, MySQL
-* Tableau
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Database-InfluxDB-informational?style=flat&logo=influxdb&logoColor=white&color=2CD4A7)
@@ -123,15 +148,7 @@ Visit my website - https://pratikbarjatya.github.io
 - [Importance of XPath in Web Automation](https://pratikbarjatya.medium.com/importance-of-xpath-in-web-automation-81139b9001c5)
 
 
-## Connect with me
 
-I am currently looking for new opportunities. My inbox is always open, whether you have a question or just want to say hi, you can always connect with me.
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-barjatiya)](https://www.linkedin.com/in/pratik-barjatiya)
-[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pratik007a)](https://twitter.com/pratik007a)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@pratikbarjatya)](https://medium.com/@pratikbarjatya)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratikbarjatya@gmail.com)](mailto:pratikbarjatya@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pra0705)](https://www.kaggle.com/pra0705) 
 
 <!-- section - social media icons -->
 
