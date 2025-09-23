@@ -159,7 +159,7 @@ Proficient in Python, TensorFlow, PyTorch and Solidity with extensive experience
 ![](https://github-profile-trophy.vercel.app/?username=pratikbarjatya&theme=flat&no-frame=true&row=1&column=6&margin-w=5&margin-h=5&count_private=true&bgColor=#f5f5f5&title=Followers,Stars,Repositories,Commit,MultiLanguage)
 
 ---
-| ![Pratik Barjatiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikbarjatya&show_icons=true&theme=radical) | [![Pratik Barjatiya's Stri](https://streak-stats.demolab.com?user=pratikbarjatya&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Pratik Barjatiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikbarjatya&show_icons=true&theme=radical) | [![Pratik Barjatiya's Streak] | [![GitHub Streak](https://streak-stats.demolab.com/?user=pratikbarjatya&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats)
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbarjatya&layout=compact&&show_icons=true&theme=radical)](https://github.com/pratikbarjatya/github-readme-stats) |                                                               |
 
